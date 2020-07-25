@@ -1,6 +1,10 @@
 body{
     background-color: green;
+    margin: auto;
 }
 h1{
     font-size: xx-large;
+}
+paragraph{
+    font-size: xx-small;
 }

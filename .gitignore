@@ -1,8 +1,6 @@
 /test1.txt
 /test2.txt
 
-/index.html
-/style.css
 
 #ignore auto generated files
 /auto-generated-files/*.txt
